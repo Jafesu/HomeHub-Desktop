@@ -1,0 +1,19 @@
+{
+  "name": "homehub-desktop",
+  "version": "0.0.1",
+  "description": "Desktop App for Home Hub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jafesu/HomeHub-Desktop.git"
+  },
+  "author": "EzekielJ Development Studios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jafesu/HomeHub-Desktop/issues"
+  },
+  "homepage": "https://github.com/Jafesu/HomeHub-Desktop#readme"
+}
